@@ -1,0 +1,16 @@
+server:
+  port: 9002
+
+logging:
+  level:
+    root: info
+
+yulin:
+  # 摄像头名称1
+  camera1: Integrated Camera
+  # 摄像头名称2
+  camera2: HIK 1080P Camera
+  # 麦克风的名称
+  audioDevice: "麦克风 (Realtek(R) Audio)"
+  # 录像保存路径
+  filePath: D:\yulin\Downloads\video\
